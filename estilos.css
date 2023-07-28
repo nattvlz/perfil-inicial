@@ -1,0 +1,24 @@
+
+body{
+    background-color:#1d7f8b;
+    color:#0b1d1f;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Overpass', sans-serif;
+
+}
+
+h3{
+    color:#69b370
+}
+
+img{
+    width: 280px;
+    height: 420px;
+    border-style: initial;
+    margin-bottom: 25px; 
+    
+}
+
+a{
+    color: black;
+}
